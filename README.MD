@@ -153,7 +153,7 @@ This project is licensed under the MIT License.
 
 ## **Author**
 **Austin Musuya**  
-[GitHub](https://github.com/austinmusuya) | [LinkedIn](https://www.linkedin.com/in/austinmusuya)
+[GitHub](https://github.com/austinmusuya) | [LinkedIn](https://www.linkedin.com/in/austin-musuya-3b86b2187)
 
 ---
 
