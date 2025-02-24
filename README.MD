@@ -48,7 +48,7 @@ book_list/
 ## ⚙ **Installation**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/austinmusuya/book-list-api.git
+git clone https://github.com/AustinMusuya/book_list.git
 cd book-list-api
 ```
 
