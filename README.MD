@@ -49,7 +49,7 @@ book_list/
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/AustinMusuya/book_list.git
-cd book-list-api
+cd book_list
 ```
 
 ### **2️⃣ Create a Virtual Environment & Activate**
