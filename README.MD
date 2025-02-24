@@ -1,4 +1,4 @@
-### **🚀 Book List API**  
+### **Book List API**  
 *A simple REST API for managing books, built with Django REST Framework.*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
@@ -151,7 +151,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🚀 **Author**
+## **Author**
 **Austin Musuya**  
 [GitHub](https://github.com/austinmusuya) | [LinkedIn](https://www.linkedin.com/in/austinmusuya)
 
